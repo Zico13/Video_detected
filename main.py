@@ -16,7 +16,7 @@ execution_path = os.getcwd()
 artur_id = "239289123"
 sofi_id = "870800205"
 telebot.apihelper.proxy = {'https': "{}".format(str(proxy_api()))}
-bot = telebot.TeleBot("888729683:AAGYwRwy2xrDuZnD8PtD9-v0S2aDhBh9r-g")
+
 
 
 def index_traffic(frame_number, output_array, output_count):
