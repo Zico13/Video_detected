@@ -5,7 +5,7 @@ import yadisk
 
 id = "225715a2b5c54bd1869461334e486091"
 pas = "24ae9c3e085b4f4cb876cd7bb1721eac"
-token = "AgAAAAAcXZXeAAXkHd0nDq7LAEGPoc61Lmrg2wY"
+
 
 ya = yadisk.YaDisk(id, pas, token)
 
