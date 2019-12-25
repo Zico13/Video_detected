@@ -13,8 +13,7 @@ def proxy():
 
 
 execution_path = os.getcwd()
-artur_id = "239289123"
-sofi_id = "870800205"
+
 telebot.apihelper.proxy = {'https': "{}".format(str(proxy_api()))}
 
 
